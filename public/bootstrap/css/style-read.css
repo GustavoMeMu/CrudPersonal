@@ -1,0 +1,31 @@
+.btn-outline-custom {
+    background-color: goldenrod;
+    color: #fff;
+}
+#contacto {
+    position: absolute;
+    left: 75%;
+}
+h3{
+    background-color: #818FB4; 
+    padding: 10px;
+    margin: 20px 0; 
+    text-align: center; 
+
+}
+.btn-custom {
+    position: relative;
+    left: 18%;
+}
+
+.btn-custom i {
+    font-size: 15px; /* Tamaño del ícono */
+}
+.btn-custom1 {
+    position: relative;
+    left: 18%;
+}
+
+.btn-custom1 i {
+    font-size: 15px; /* Tamaño del ícono */
+}

@@ -1,0 +1,12 @@
+body{
+  background-color: rgb(0, 0, 0);
+}
+.titulo {
+  font-size: 650px;
+  color: gold;
+  border: 1px solid gold;
+  border-radius: 8px;
+  padding: 10px;
+  font-size: 36px;
+  font-family: 'Arial Black', sans-serif;
+}
